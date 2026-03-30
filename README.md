@@ -7,6 +7,7 @@ Data professional with deep expertise in pipeline architecture, ETL engineering,
 Currently focused on bridging traditional data engineering with applied AI — building portfolio projects that combine Python, LLMs, and modern data stacks.
 
 Tech stack
+
 Python	SQL	PySpark	Snowflake	Databricks	Apache Airflow	DBT	Tableau
 CI/CD
 A/B Testing
