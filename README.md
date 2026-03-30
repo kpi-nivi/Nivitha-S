@@ -11,3 +11,5 @@ Tech stack
 Python	SQL	PySpark	Snowflake	Databricks	Apache Airflow	DBT	Tableau
 CI/CD
 A/B Testing
+
+LinkedIn : https://www.linkedin.com/in/nivitha-sambath-kumar/
